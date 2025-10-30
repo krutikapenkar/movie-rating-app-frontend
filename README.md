@@ -36,7 +36,7 @@ This repository link for **Django Backend ** : https://github.com/krutikapenkar/
 
 1️⃣ Clone the Repository
 
-1) git clone https://github.com/<your-username>/movie-rating-frontend.git
+1) git clone https://github.com/krutikapenkar/movie-rating-app-frontend.git 
 2) cd movie-rating-frontend
 
 2️⃣ Install Dependencies
