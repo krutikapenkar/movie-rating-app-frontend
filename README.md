@@ -1,4 +1,5 @@
 🎬 **Movie Rating Web App (React + Django)**
+-----------------------------------
 
 A full-stack **Movie Rating and Management Web Application** built using **React.js (frontend)** and **Django REST Framework (backend)**.
 This project helped me learn how to integrate a modern React frontend with a powerful Django API backend — including authentication, CRUD operations, and dynamic UI rendering.
@@ -20,7 +21,7 @@ This repository contains only the **React frontend** part of the project.
 - MySQL database support  
 - Serializer-based API structure
 
-This repository link for **Django Backend ** : 
+This repository link for **Django Backend ** : https://github.com/krutikapenkar/movie-rating-app.git
 
 
 🛠️ **Tech Stack**
@@ -31,6 +32,7 @@ This repository link for **Django Backend ** :
 - **Auth:** Token Authentication
 
 ⚙️ **Project Setup & Installation**
+-----------------------------------
 
 1️⃣ Clone the Repository
 
